@@ -1,0 +1,5 @@
+package com.dashboard.demo.model;
+
+public class Formateur {
+
+}

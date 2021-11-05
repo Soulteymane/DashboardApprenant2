@@ -1,0 +1,5 @@
+package com.dashboard.demo.repository;
+
+public interface ApprenantRepository {
+
+}
